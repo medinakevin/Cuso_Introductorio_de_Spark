@@ -693,4 +693,5 @@ En las siguientes clases profundizaremos en estos conceptos y crearemos un parti
 
 ### Clase 24 Particionando datos
 
+
 ![spark_26](src/spark_26.png)
